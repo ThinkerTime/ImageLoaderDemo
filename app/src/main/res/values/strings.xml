@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ImageLoaderDemo</string>
+
+    <string name="btn_image_list">ListView</string>
+    <string name="btn_image_grid">GridView</string>
+    <string name="btn_image_pager">ViewPager</string>
+    <string name="btn_image_gallery">Gallery</string>
+    <string name="btn_clear_memory">清除内存缓存</string>
+    <string name="btn_clear_disk">清除磁盘缓存</string>
+    <string name="btn_get_memory">获取内存缓存</string>
+    <string name="btn_get_disk">获取磁盘缓存</string>
+
+    <string name="descr_image">Image</string>
+    <string name="content_tv">beautiful</string>
+</resources>
